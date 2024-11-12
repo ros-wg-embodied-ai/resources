@@ -1,5 +1,7 @@
 # ROS Embodied AI Community Group - Links & Resources
 
+To contribute additional resources to this page, please submit a Pull Request.
+
 ### RAI RosCon2024 demos
 
 ![RAI gifs](./gifs/rai_roscondemo2024.gif)
