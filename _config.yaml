@@ -2,6 +2,3 @@ title: ROS Embodied AI Community Group - Links & Resources
 baseurl: "/resources" # the subpath of your site, e.g. /blog
 url: "https://ros-wg-embodied-ai.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-remote_theme: "jeffreytse/jekyll-theme-yat"
-
